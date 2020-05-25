@@ -5,8 +5,7 @@ See https://github.com/peterhall001/OPTIMA for the original model.
 
 Use master_base-case.R to run the model. Depending on the CPU of your computer, the POSA might take several minutes to complete.
 
-Due to confidentiality, the patient data necessary to populate the model is not available. 
-Refer to the Patient Variable Specification document for the type of data needed to run the model correctly.
+Please note: the model requires a dataset to run, which is currently not available in the public domain. Please get in touch if you would like to use this.
 
 The code is part of the supporting documentation for: 
 "Probabilistic One-way Sensitivity Analysis with Multiple Comparators: The Conditional Net Benefit Frontier"
