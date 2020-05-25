@@ -1,5 +1,5 @@
 
-data <- read.csv("Patient-data.csv")
+data <- read.csv("302_tests_10-10-14.csv")
 
 
 data1 <- data[!is.na(data$Recurscore),]
