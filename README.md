@@ -1,6 +1,8 @@
 # POSA-Optima
 R script for the Probabilistic One-way Sensitivity Analysis based on the Optima model.
 
+See https://github.com/peterhall001/OPTIMA for the original model.
+
 Use master_base-case.R to run the model. Depending on the CPU of your computer, the POSA might take several minutes to complete.
 
 Due to confidentiality, the patient data necessary to populate the model is not available. 
